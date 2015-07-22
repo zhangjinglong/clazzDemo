@@ -1,0 +1,3 @@
+2个例子
+第一个是利用反射进行SharedPreferences对象的存储
+第二个是利用反射进行SQLite表的创建
